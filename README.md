@@ -1,2 +1,9 @@
-# Sistemas-Embarcados
-Códigos criados para a matéria de Programação para Sistemas embarcados 
+# Sistemas-Embarcados Integrantes do Grupo
+
+- Levy Souto
+- Daniel Netto
+- Erick Leão
+- Felipe Bruno
+- João Gabriel
+- João Matheus
+
